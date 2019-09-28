@@ -1,3 +1,16 @@
+body {
+  margin: 40px 40% 0;
+  text-align: left;
+}
+
 h1 {
-  font-size: 50px;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
 }
