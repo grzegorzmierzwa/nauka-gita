@@ -1,6 +1,7 @@
 body {
   margin: 40px 40% 0;
   text-align: left;
+  display: -ms-flexbox;
   display: flex;
 }
 
